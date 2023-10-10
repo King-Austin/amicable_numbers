@@ -50,8 +50,8 @@ def find_amicable_numbers(limit):
 ##===================================================
 
 limit = 10000  # Set the upper limit for the range of numbers to check
-## Feel free to modify the limit. - but dont set it too high to consume
-## you CPU resources; 10000 is gentlemanly enough TONY.
+## Feel free to modify the limit. - but dont set it too high as not to consume
+## your CPU resources; 10000 is gentlemanly enough TONY.
 
 amicable_nums = find_amicable_numbers(limit)
 
